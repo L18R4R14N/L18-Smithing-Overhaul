@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "description": [
+      {
+        "text": "Rework of vanilla smithing mechanics",
+        "color": "gold"
+      }
+    ]
+  }
+}
