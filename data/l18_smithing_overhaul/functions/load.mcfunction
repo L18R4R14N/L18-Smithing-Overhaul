@@ -1,0 +1,6 @@
+scoreboard objectives add l18_smithing_overhaul_grindstone minecraft.custom:minecraft.interact_with_grindstone
+scoreboard objectives add l18_smithing_overhaul_anvil minecraft.custom:minecraft.interact_with_anvil
+scoreboard objectives add l18_smithing_overhaul_smithing_table minecraft.custom:minecraft.interact_with_smithing_table
+
+
+
