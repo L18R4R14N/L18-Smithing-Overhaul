@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "offhand": {
+        "tag": "l18_smithing_overhaul:materials_smithing_table",
+        "count": {
+          "min": 8
+        }
+      },
+      "mainhand": {
+        "tag": "l18_smithing_overhaul:items_smithing_table"
+      }
+    }
+  }
+}

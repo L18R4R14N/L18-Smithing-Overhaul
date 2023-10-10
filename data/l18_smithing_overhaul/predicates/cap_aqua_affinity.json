@@ -6,9 +6,9 @@
       "mainhand": {
         "enchantments": [
           {
-            "enchantment": "minecraft:bane_of_arthropods",
+            "enchantment": "minecraft:aqua_affinity",
             "levels": {
-              "min": 2
+              "min": 1
             }
           }
         ]

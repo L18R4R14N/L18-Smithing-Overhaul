@@ -6,7 +6,7 @@
       "mainhand": {
         "enchantments": [
           {
-            "enchantment": "minecraft:bane_of_arthropods",
+            "enchantment": "minecraft:efficiency",
             "levels": {
               "min": 2
             }

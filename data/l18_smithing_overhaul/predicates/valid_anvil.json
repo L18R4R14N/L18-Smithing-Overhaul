@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "offhand": {
+        "tag": "l18_smithing_overhaul:materials_anvil",
+        "count": {
+          "min": 4
+        }
+      },
+      "mainhand": {
+        "tag": "l18_smithing_overhaul:items_anvil"
+      }
+    }
+  }
+}
