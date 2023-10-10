@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "tag": "minecraft:iron_ores"
+    },
+    "result": "minecraft:iron_block",
+    "experience": 7.2,
+    "cookingtime": 600
+}

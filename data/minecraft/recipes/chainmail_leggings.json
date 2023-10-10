@@ -1,23 +1,23 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "iIi",
-        " /i",
-        " / "
+        "iii",
+        "CIC",
+        "I I"
     ],
     "key": {
         "i": {
             "item": "minecraft:iron_ingot"
         },
+        "C": {
+            "item": "minecraft:chain"
+        },
         "I": {
             "item": "minecraft:iron_nugget"
-        },
-        "/": {
-            "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:iron_axe",
+        "item": "minecraft:chainmail_leggings",
         "count": 1
     }
 }

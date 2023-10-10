@@ -1,23 +1,23 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "iIi",
-        " /i",
+        "#gg",
+        " / ",
         " / "
     ],
     "key": {
-        "i": {
-            "item": "minecraft:iron_ingot"
+        "#": {
+            "item": "minecraft:gold_nugget"
         },
-        "I": {
-            "item": "minecraft:iron_nugget"
+        "g": {
+            "item": "minecraft:gold_ingot"
         },
         "/": {
             "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:iron_axe",
+        "item": "minecraft:golden_hoe",
         "count": 1
     }
 }

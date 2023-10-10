@@ -1,23 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
+        "i i",
         "iIi",
-        " /i",
-        " / "
+        " i "
     ],
     "key": {
         "i": {
             "item": "minecraft:iron_ingot"
         },
         "I": {
-            "item": "minecraft:iron_nugget"
-        },
-        "/": {
-            "item": "minecraft:stick"
+            "item": "minecraft:iron_block"
         }
     },
     "result": {
-        "item": "minecraft:iron_axe",
+        "item": "minecraft:iron_chestplate",
         "count": 1
     }
 }

@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "iIi",
-        " /i",
-        " / "
+        "  i",
+        "Ii ",
+        "/I "
     ],
     "key": {
         "i": {
@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:iron_axe",
+        "item": "minecraft:iron_sword",
         "count": 1
     }
 }

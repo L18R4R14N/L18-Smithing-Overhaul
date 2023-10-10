@@ -2,22 +2,19 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "iIi",
-        " /i",
-        " / "
+        "i i",
+        "i i"
     ],
     "key": {
         "i": {
             "item": "minecraft:iron_ingot"
         },
         "I": {
-            "item": "minecraft:iron_nugget"
-        },
-        "/": {
-            "item": "minecraft:stick"
+            "item": "minecraft:iron_block"
         }
     },
     "result": {
-        "item": "minecraft:iron_axe",
+        "item": "minecraft:iron_leggings",
         "count": 1
     }
 }

@@ -1,9 +1,8 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "iIi",
-        " /i",
-        " / "
+        "iii",
+        "iIi"
     ],
     "key": {
         "i": {
@@ -11,13 +10,10 @@
         },
         "I": {
             "item": "minecraft:iron_nugget"
-        },
-        "/": {
-            "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:iron_axe",
+        "item": "minecraft:iron_helmet",
         "count": 1
     }
 }
